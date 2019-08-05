@@ -52,7 +52,7 @@
 					<td><label>txnAmount*</label></td>
 					<td><input title="TXN_AMOUNT" tabindex="10"
 						type="text" name="TXN_AMOUNT"
-						value="1">
+						value="9999">
 					</td>
 				</tr>
 				<tr>
